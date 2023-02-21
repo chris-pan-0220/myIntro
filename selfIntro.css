@@ -1,0 +1,22 @@
+body {
+    background-color: #96A9C3;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.background {
+    width: ;
+    background-color: white;
+}
+a {
+    color:grey;
+    background-color: transparent;
+    text-decoration: none;
+}
+.head > h1{
+    color: #FF6699;
+}
+.topic {
+    color:#96A9C3;
+}
